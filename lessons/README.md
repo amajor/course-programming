@@ -1,5 +1,9 @@
 # Lessons
 
+The living document for lesson planning is the [Intro to Programming Trello Board](https://trello.com/b/h84wUp5U/colearning-intro-to-programming).
+
+Once the planning is closer to finalized, additional links or files might be stored here.
+
 ## Module 1
 
 * Programmer's Toolkit
