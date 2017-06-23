@@ -4,7 +4,9 @@ This repository contains materials and plannings to be used in the **Intro to Pr
 
 ## The Application
 
-You can see an example of the dashboard application that we'll be creating on this repository's GitHub page.
+You can see an example of the dashboard application that we'll be creating on this repository's GitHub page:
+
+https://amajor.github.io/intro-to-programming/
 
 ## Lesson Modules
 
