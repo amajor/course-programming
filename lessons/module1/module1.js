@@ -6,20 +6,6 @@
 // Developer Tools in your browser and look for the term "Console".
 console.log('Welcome to your dashboard!');
 
-// You can use the console to try out javascript right in your browser!
-// In the console input, try typing out some math problems and hitting enter.
-
-// Example: Type '3 + 5' and your should see '8' as an output.
-
-// Example: Type '3 + 5 * 2' and your should see '13' as an output.
-// Note that there is an order of operations. Multiplication and division
-// occur before addition and subtraction.
-
-// Example: Type '(3 + 5) * 2' to perform the addition before multiplying.
-
-// Anything you type into the console are the same as actions you can perform
-// in a javascript file.
-
 /*******************************************
  * vars, consts, and lets
  *******************************************/
