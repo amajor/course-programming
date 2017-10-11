@@ -5,6 +5,7 @@
 // This is a console.log() - in order to view your console, open up your
 // Developer Tools in your browser and look for the term "Console".
 console.log('Welcome to your dashboard!');
+console.log('Hi everyone!');
 
 /*******************************************
  * vars, consts, and lets
@@ -14,7 +15,7 @@ console.log('Welcome to your dashboard!');
 // Uncomment each step (remove the '//' in the front of the line) to see
 // the results in the console.
 
-// console.log(3 + 5);
+console.log(3 + 5);
 // console.log(2 * 5);
 // console.log('hello world!');
 
