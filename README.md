@@ -12,7 +12,10 @@ https://amajor.github.io/intro-to-programming/
 
 Lesson files can be found in the [lessons directory](./lessons).
 
-1. [Module 1](./lessons/module1)
+0. [Module 1](./lessons/module1)
+0. [Module 2](./lessons/module2)
+0. [Module 3](./lessons/module3)
+0. [Module 4](./lessons/module4)
 
 ## Course Description
 
