@@ -1,18 +1,12 @@
-# Intro to Programming
+# Programming Course
 
-This repository contains materials and plannings to be used in the **Intro to Programming** course led by Alison Major and Kendell Joseph for [coLearning](http://workthefactory.com/colearning/teaches/intro-to-programming) at [The Factory](http://workthefactory.com).
+This repository contains materials and plannings to be used in the **Programming** course led by Alison Major and Kendell Joseph for [coLearning](http://workthefactory.com/colearning/teaches/intro-to-programming) at [The Factory](http://workthefactory.com).
 
 ## The Application
 
 You can see an example of the dashboard application that we'll be creating on this repository's GitHub page:
 
 https://amajor.github.io/intro-to-programming/
-
-## Lesson Modules
-
-Lesson files can be found in the [lessons directory](./lessons).
-
-1. [Module 1](./lessons/module1)
 
 ## Course Description
 
@@ -81,3 +75,10 @@ How to open a web browser. How to install software on to your computer. That's a
 * How programming languages differ, how programs are stacked on top of each other, and how they communicate.
 * How to write a basic JavaScript program.
 * What to learn next to accomplish whatever goals you have in your programming career.
+
+# Course Syllabus
+
+To see the progress of the course, check out the semester in question:
+
+* [Winter 2018](docs/Winter-2018.md)
+* [Fall 2017](docs/Fall-2017.md)
