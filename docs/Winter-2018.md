@@ -1,6 +1,7 @@
 ### Table of Contents
 
-* [Week 1](Winter-2018.md#week-1-september-20) (January 17)
+* [Week 1](Winter-2018.md#week-1-january-17) (January 17)
+* [Week 2](Winter-2018.md#week-1-january-24) (January 24)
 * [Topics not yet covered](Winter-2018.md#looking-forward)
 
 # Week 1, January 17
@@ -24,6 +25,20 @@
 ![Developer's Toolbox](images/2018_01/_Toolbox.jpeg)
 ![Version Control](images/2018_01/_VersionControl.jpeg)
 
+# Week 2, January 24
+
+* Review everyone's Pull Request from the past week.
+  * https://github.com/HappyCoLearning/programming-winter-2018/pulls
+* **ACTIVITY:** Strategies Markdown
+* **HOMEWORK:**
+* **ARTICLE:**
+
+## Topics Covered
+
+![Version Control](images/2018_01/_VersionControl.jpeg)
+![T.D.D.](images/2018_01/_TDD.jpeg)
+![User Stories](images/2018_01/_UserStories.jpeg)
+
 ***
 
 # Looking forward...
@@ -39,7 +54,6 @@ own. Google is your friend!
 ![Frameworks](images/2018_01/_Frameworks.jpeg)
 ![Choosing the Right Language](images/2018_01/_Language.jpeg)
 ![Showcase](images/2018_01/_Showcase.jpeg)
-![T.D.D.](images/2018_01/_TDD.jpeg)
 
 ![Agile](images/2018_01/_Agile.jpeg)
 ![Code Reviews](images/2018_01/_CodeReviews.jpeg)
@@ -47,7 +61,6 @@ own. Google is your friend!
 ![Loops](images/2018_01/_Loops.jpeg)
 ![Libraries: Moment JS](images/2018_01/_MomentJS.jpeg)
 ![Asking Questions](images/2018_01/_Questions.jpeg)
-![User Stories](images/2018_01/_UserStories.jpeg)
 
 ![Advantages of Frameworks, Libraries, and APIs](images/2018_01/_AdvantagesOf.jpeg)
 ![And / Or](images/2018_01/_AndOr.jpeg)
