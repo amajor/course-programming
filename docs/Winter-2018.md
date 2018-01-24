@@ -1,7 +1,7 @@
 ### Table of Contents
 
 * [Week 1](Winter-2018.md#week-1-january-17) (January 17)
-* [Week 2](Winter-2018.md#week-1-january-24) (January 24)
+* [Week 2](Winter-2018.md#week-2-january-24) (January 24)
 * [Topics not yet covered](Winter-2018.md#looking-forward)
 
 # Week 1, January 17
