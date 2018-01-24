@@ -8,18 +8,6 @@ You can see an example of the dashboard application that we'll be creating on th
 
 https://amajor.github.io/intro-to-programming/
 
-<<<<<<< HEAD
-=======
-## Lesson Modules
-
-Lesson files can be found in the [lessons directory](./lessons).
-
-1. [Module 1](./lessons/module1)
-0. [Module 2](./lessons/module2)
-0. [Module 3](./lessons/module3)
-0. [Module 4](./lessons/module4)
-
->>>>>>> origin/master
 ## Course Description
 
 Programming is not as hard as you think. At its most basic, it's the skill of sending instructions to a computer. These instructions have to be written in a language the computer will understand. Just like human languages, computer languages share many of the same basic building blocks. This course will introduce you to those building blocks, and begin to teach you a language you can use to build programs for the web.
