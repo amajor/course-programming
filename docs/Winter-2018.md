@@ -2,6 +2,19 @@
 
 * [Week 1](Winter-2018.md#week-1-january-17) (January 17)
 * [Week 2](Winter-2018.md#week-2-january-24) (January 24)
+* [Week 3](Winter-2018.md#week-3-january-31) (January 31)
+* [Week 4](Winter-2018.md#week-4-february-7) (February 7)
+* **Studio Tour:** Elevator Up (February 8)
+* [Week 5](Winter-2018.md#week-5-february-14) (February 14)
+* [Week 6](Winter-2018.md#week-6-february-21) (February 21)
+* [Week 7](Winter-2018.md#week-7-february-28) (February 28)
+* [Week 8](Winter-2018.md#week-8-march-7) (March 7)
+* **Studio Tour:** Atomic Object (March 8)
+* [Week 9](Winter-2018.md#week-9-march-14) (March 14)
+* [Week 10](Winter-2018.md#week-10-march-21) (March 21)
+* [Week 11](Winter-2018.md#week-11-march-28) (March 28)
+* [Week 12](Winter-2018.md#week-12-april-4) (April 4)
+* **Graduation Open House** (April 10)
 * [Topics not yet covered](Winter-2018.md#looking-forward)
 
 # Week 1, January 17
@@ -65,6 +78,62 @@
 ![Ceremonies](images/2018_01/_Ceremonies.jpeg)
 ![Showcase](images/2018_01/_Showcase.jpeg)
 ![User Stories](images/2018_01/_UserStories.jpeg)
+
+# Week 5, February 14
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 6, February 21
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 7, February 28
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 8, March 7
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 9, March 14
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 10, March 21
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 11, March 28
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 12, April 4
+
+* <topics here>
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
 
 ***
 
