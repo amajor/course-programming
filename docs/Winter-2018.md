@@ -67,7 +67,7 @@
 * CI/CD/CD
 * Agile Crash Course
 * **ACTIVITY:** [The Penny Game](http://kc.agilehood.org/a-pitcher-of-kool-aid-for-20-cents/)
-* **HOMEWORK:** 
+* **HOMEWORK:**
   * Research some CI Tools. Create an account for one (try [Travis CI](https://travis-ci.org/)!).
   * If you're feeling ambitious, hook up one of your repositories to a CI server and add the badge to your README file!
 * **ARTICLE:** [The life-changing wonder of Continuous Integration and Deployment](https://medium.freecodecamp.org/the-life-changing-wonder-of-continuous-integration-and-deployment-97f833505eea)
