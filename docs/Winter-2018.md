@@ -29,14 +29,41 @@
 
 * Review everyone's Pull Request from the past week.
   * https://github.com/HappyCoLearning/programming-winter-2018/pulls
+* Test Driven Development
 * **ACTIVITY:** Strategies Markdown
-* **HOMEWORK:**
-* **ARTICLE:**
+* **HOMEWORK:** JavaScript Intro
+  * Video: https://youtu.be/cZTpzU8dYp8
+  * Repository: https://github.com/amajor/exercise-js-intro
+* **ARTICLE:** [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
 
 ## Topics Covered
 
 ![Version Control](images/2018_01/_VersionControl.jpeg)
 ![T.D.D.](images/2018_01/_TDD.jpeg)
+![User Stories](images/2018_01/_UserStories.jpeg)
+
+# Week 3, January 31
+
+* Create a Microservice using Arc
+* **ACTIVITY:**
+* **HOMEWORK:**
+* **ARTICLE:**
+
+# Week 4, February 7
+
+* CI/CD/CD
+* Agile Crash Course
+* **ACTIVITY:**
+* **HOMEWORK:** 
+  * Research some CI Tools. Create an account for one (try [Travis CI](https://travis-ci.org/)!).
+  * If you're feeling ambitious, hook up one of your repositories to a CI server and add the badge to your README file!
+* **ARTICLE:** [The life-changing wonder of Continuous Integration and Deployment](https://medium.freecodecamp.org/the-life-changing-wonder-of-continuous-integration-and-deployment-97f833505eea)
+
+## Topics Covered
+
+![Agile](images/2018_01/_Agile.jpeg)
+![Ceremonies](images/2018_01/_Ceremonies.jpeg)
+![Showcase](images/2018_01/_Showcase.jpeg)
 ![User Stories](images/2018_01/_UserStories.jpeg)
 
 ***
@@ -53,9 +80,7 @@ own. Google is your friend!
 ![ES6](images/2018_01/_ES6.jpeg)
 ![Frameworks](images/2018_01/_Frameworks.jpeg)
 ![Choosing the Right Language](images/2018_01/_Language.jpeg)
-![Showcase](images/2018_01/_Showcase.jpeg)
 
-![Agile](images/2018_01/_Agile.jpeg)
 ![Code Reviews](images/2018_01/_CodeReviews.jpeg)
 ![Conditionals](images/2018_01/_Conditionals.jpeg)
 ![Loops](images/2018_01/_Loops.jpeg)
@@ -67,7 +92,6 @@ own. Google is your friend!
 ![Arrays](images/2018_01/_Arrays.jpeg)
 ![Arrow Function](images/2018_01/_ArrowFunction.jpeg)
 ![Call and Invoke](images/2018_01/_CallInvoke.jpeg)
-![Ceremonies](images/2018_01/_Ceremonies.jpeg)
 ![Code Smells](images/2018_01/_CodeSmells.jpeg)
 ![Communication Skillz](images/2018_01/_Communication.jpeg)
 ![Default Parameter Values](images/2018_01/_DefaultValues.jpeg)
