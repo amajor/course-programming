@@ -105,6 +105,7 @@
 # Week 7, February 28
 
 * Functions - let's talk specifics
+* Why do code reviews
 * **ACTIVITY:** Pick and plan a project
 * **HOMEWORK:**
 * **ARTICLE:**
