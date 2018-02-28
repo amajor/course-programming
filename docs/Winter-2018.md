@@ -81,24 +81,33 @@
 
 # Week 5, February 14
 
-* <topics here>
-* **ACTIVITY:**
+* The Worst at JavaScript
+* **ACTIVITY:** Add functions to [The Worst at JavaScript](https://github.com/grandrapidsjavascript/the-worst-at-javascript)
 * **HOMEWORK:**
 * **ARTICLE:**
 
 # Week 6, February 21
 
-* <topics here>
-* **ACTIVITY:**
+* Why we love functions
+* **ACTIVITY:** Gif Gallery
+  * Walk through every commit in [this pull request](https://github.com/amajor/gif-gallery/pull/2)
+  * This shows the thought process of developing a feature
+  * Making the smallest change possible to move forward is often the way to go, especially while learning! It's like showing your work while doing math. Eventually you can do some steps in your head, but writing it out gives you practice, and committing each step also gives you a reference for later.
 * **HOMEWORK:**
 * **ARTICLE:**
 
 # Week 7, February 28
 
-* <topics here>
-* **ACTIVITY:**
+* Functions - let's talk specifics
+* **ACTIVITY:** Pick and plan a project
 * **HOMEWORK:**
 * **ARTICLE:**
+ 
+ ## Topics Covered
+ 
+![Function Declaration](images/2018_01/_FunctionDeclaration.jpeg)
+![Function Expressions](images/2018_01/_FunctionExpressions.jpeg)
+![Function Name](images/2018_01/_FunctionName.jpeg)
 
 # Week 8, March 7
 
@@ -165,9 +174,6 @@ own. Google is your friend!
 ![Communication Skillz](images/2018_01/_Communication.jpeg)
 ![Default Parameter Values](images/2018_01/_DefaultValues.jpeg)
 ![Reading Documentation](images/2018_01/_Documentation.jpeg)
-![Function Declaration](images/2018_01/_FunctionDeclaration.jpeg)
-![Function Expressions](images/2018_01/_FunctionExpressions.jpeg)
-![Function Name](images/2018_01/_FunctionName.jpeg)
 ![M.V.P.](images/2018_01/_MVP.jpeg)
 ![Objects](images/2018_01/_Objects.jpeg)
 ![Primitive Data Types](images/2018_01/_PrimitiveDatatypes.jpeg)
