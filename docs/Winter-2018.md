@@ -88,13 +88,19 @@
 
 # Week 6, February 21
 
-* Why we love functions
+* Why we love functions (it keeps things DRY!)
+* Code review practice using pull requests
 * **ACTIVITY:** Gif Gallery
   * Walk through every commit in [this pull request](https://github.com/amajor/gif-gallery/pull/2)
   * This shows the thought process of developing a feature
   * Making the smallest change possible to move forward is often the way to go, especially while learning! It's like showing your work while doing math. Eventually you can do some steps in your head, but writing it out gives you practice, and committing each step also gives you a reference for later.
 * **HOMEWORK:**
 * **ARTICLE:**
+
+## Topics Covered
+
+![D.R.Y.](images/2018_01/_DRY.jpeg)
+![Code Reviews](images/2018_01/_CodeReviews.jpeg)
 
 # Week 7, February 28
 
@@ -154,12 +160,10 @@ own. Google is your friend!
 
 ![API](images/2018_01/_API.jpeg)
 ![Databases](images/2018_01/_Databases.jpeg)
-![D.R.Y.](images/2018_01/_DRY.jpeg)
 ![ES6](images/2018_01/_ES6.jpeg)
 ![Frameworks](images/2018_01/_Frameworks.jpeg)
 ![Choosing the Right Language](images/2018_01/_Language.jpeg)
 
-![Code Reviews](images/2018_01/_CodeReviews.jpeg)
 ![Conditionals](images/2018_01/_Conditionals.jpeg)
 ![Loops](images/2018_01/_Loops.jpeg)
 ![Libraries: Moment JS](images/2018_01/_MomentJS.jpeg)
