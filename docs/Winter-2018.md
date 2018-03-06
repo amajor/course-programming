@@ -128,7 +128,9 @@
 
 # Week 8, March 7
 
-* <topics here>
+* Intro to Graph Databases
+* Intro to React
+* Start planning [Disaster Pie](https://github.com/HappyCoLearning/disaster_pie/projects/1) stories
 * **ACTIVITY:**
 * **HOMEWORK:**
 * **ARTICLE:**
