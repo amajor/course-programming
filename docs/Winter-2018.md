@@ -107,7 +107,17 @@
 * Functions - let's talk specifics
 * Why do code reviews
 * **ACTIVITY:** Pick and plan a project
-* **HOMEWORK:**
+* **HOMEWORK:** Read up on the items in [Libraries to Research](https://github.com/HappyCoLearning/disaster_pie/projects/1) for our upcoming project.
+  * [Neo4j](https://neo4j.com/)
+    * [YouTube Video: Graph Databases](https://www.youtube.com/watch?v=GekQqFZm7mA)
+    * [Tool to sketch out nodes](http://www.apcjones.com/arrows/#)
+  * [React](https://reactjs.org/)
+    * [YouTube Video: Intro to React](https://www.youtube.com/watch?v=JPT3bFIwJYA)
+  * [SocketIO](https://socket.io/)
+  * [Electron](https://electronjs.org/)
+    * [YouTube Video: Intro to Electron](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+  * [TurfJS](http://turfjs.org/)
+  * [LeafletJS](http://leafletjs.com/)
 * **ARTICLE:**
  
  ## Topics Covered
