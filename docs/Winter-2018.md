@@ -125,6 +125,8 @@
 ![Function Declaration](images/2018_01/_FunctionDeclaration.jpeg)
 ![Function Expressions](images/2018_01/_FunctionExpressions.jpeg)
 ![Function Name](images/2018_01/_FunctionName.jpeg)
+![Default Parameter Values](images/2018_01/_DefaultValues.jpeg)
+![Parameters, Statements, Arguments](images/2018_01/_Vocab.jpeg)
 
 # Week 8, March 7
 
@@ -134,6 +136,13 @@
 * **ACTIVITY:**
 * **HOMEWORK:**
 * **ARTICLE:**
+
+## Topics Covered
+
+![Databases](images/2018_01/_Databases.jpeg)
+![Advantages of Frameworks, Libraries, and APIs](images/2018_01/_AdvantagesOf.jpeg)
+![Frameworks](images/2018_01/_Frameworks.jpeg)
+![Reading Documentation](images/2018_01/_Documentation.jpeg)
 
 # Week 9, March 14
 
@@ -172,9 +181,7 @@ schedule for the future doesn't mean that you can't do some research on your
 own. Google is your friend!
 
 ![API](images/2018_01/_API.jpeg)
-![Databases](images/2018_01/_Databases.jpeg)
 ![ES6](images/2018_01/_ES6.jpeg)
-![Frameworks](images/2018_01/_Frameworks.jpeg)
 ![Choosing the Right Language](images/2018_01/_Language.jpeg)
 
 ![Conditionals](images/2018_01/_Conditionals.jpeg)
@@ -182,15 +189,12 @@ own. Google is your friend!
 ![Libraries: Moment JS](images/2018_01/_MomentJS.jpeg)
 ![Asking Questions](images/2018_01/_Questions.jpeg)
 
-![Advantages of Frameworks, Libraries, and APIs](images/2018_01/_AdvantagesOf.jpeg)
 ![And / Or](images/2018_01/_AndOr.jpeg)
 ![Arrays](images/2018_01/_Arrays.jpeg)
 ![Arrow Function](images/2018_01/_ArrowFunction.jpeg)
 ![Call and Invoke](images/2018_01/_CallInvoke.jpeg)
 ![Code Smells](images/2018_01/_CodeSmells.jpeg)
 ![Communication Skillz](images/2018_01/_Communication.jpeg)
-![Default Parameter Values](images/2018_01/_DefaultValues.jpeg)
-![Reading Documentation](images/2018_01/_Documentation.jpeg)
 ![M.V.P.](images/2018_01/_MVP.jpeg)
 ![Objects](images/2018_01/_Objects.jpeg)
 ![Primitive Data Types](images/2018_01/_PrimitiveDatatypes.jpeg)
@@ -199,4 +203,3 @@ own. Google is your friend!
 ![Refactoring](images/2018_01/_Refactor.jpeg)
 ![Switch](images/2018_01/_Switch.jpeg)
 ![Tech Debt](images/2018_01/_TechDebt.jpeg)
-![Parameters, Statements, Arguments](images/2018_01/_Vocab.jpeg)
